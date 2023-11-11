@@ -1,0 +1,21 @@
+ul{
+    list-style: none;
+}
+
+
+div {
+    background: linear-gradient(90deg,#9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    padding: 32px;
+    padding-top: 24px;
+    border-radius: 8px;
+}
+
+div p {
+color: #f3f3ed;
+}
+
+
+
+
+
+    
